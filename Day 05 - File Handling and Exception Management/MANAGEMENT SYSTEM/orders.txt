@@ -1,0 +1,2 @@
+12,C101,2024-09-21,Table, Chair, Pencil,20000.0
+23,C102,2024-01-23,Bed, Television,90000.0
