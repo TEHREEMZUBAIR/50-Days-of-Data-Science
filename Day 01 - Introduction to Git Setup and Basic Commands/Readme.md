@@ -1,9 +1,3 @@
-### Task Title:
-**"Introduction to Git: Setup and Basic Commands"**
-
-### README.md Example:
-
-```markdown
 # Introduction to Git: Setup and Basic Commands
 
 This guide provides step-by-step instructions on how to install and configure Git, initialize a new repository, and use basic Git commands such as `git add` and `git commit`.
