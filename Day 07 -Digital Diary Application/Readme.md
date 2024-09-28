@@ -1,37 +1,48 @@
-# 📘 Day 6: OOP Basics in Python
-## Instructions:
-### 📝 Introduction to Classes and Objects:
+# 📓 Day 7: Digital Diary Application
+## 💡 Task Overview:
+In this task, you will create a Digital Diary that offers the following functionalities:
 
-A class is a blueprint for creating objects, and an object is an instance of a class. 🏗️
-Define a class called Dog 🐶 that represents basic attributes and behaviors.
-### 🔧 Using the __init__ Method:
+📂 User Authentication: Signup, login, and logout features.
+📖 Diary Management: Add, view, update, and delete diary entries.
+💾 Persistent Data Storage: Store each user's diary entries in .txt files, ensuring that data is available across sessions.
+## 🛠️ Steps and Instructions:
+### 🔑 User Authentication:
 
-The __init__ method acts as a constructor and is automatically called when an object is instantiated. 🔄
-Create attributes for the Dog class (like name) using the __init__ method and the self keyword to initialize them.
-### 🔒 Encapsulation:
+Implement a signup feature that allows new users to create an account. Each user should have their own file for diary entries.
+Implement a login feature, allowing existing users to access their diary. A user’s diary file will be loaded upon login.
+Add a logout feature that securely exits the current session and returns the user to the main menu.
+### 📖 Diary Entries:
 
-Protect object data by using private attributes (prefix them with double underscores __) 🛡️.
-Implement getter and setter methods to access and modify private attributes.
-### 👪 Inheritance and Polymorphism:
+Add Entry: Allow users to create new diary entries. Each entry should have a title and content, and it should be timestamped.
+Update Entry: Users can update existing diary entries by specifying the entry's title.
+Delete Entry: Allow users to delete entries by providing the title of the entry they wish to remove.
+List Entries: Display all entries along with their timestamps and content.
+### 🗂️ File Management:
 
-Inheritance allows a class to inherit attributes and methods from another class. 📦 Create base and derived classes to demonstrate this concept.
-Polymorphism enables objects of different classes to be treated as objects of a common parent class. 🌀 Implement method overriding to demonstrate this.
-### ⚙️ Task Workflow:
+Store each user's diary in a separate .txt file, with the filename based on the user’s username.
+Implement logic to read and write entries to these files, ensuring persistent svtorage between sessions.
+### 🧑‍💻 Object-Oriented Programming:
 
-#### Write Python code snippets for the following:
-🐾 Create a Dog class with class and instance attributes.
-🐕 Instantiate multiple objects from the class.
-🔑 Use getter and setter methods for encapsulation.
-🧱 Define base and derived classes to implement inheritance.
-🎭 Apply polymorphism by overriding methods.
-📚 Important OOP Concepts to Cover:
+Create a DiaryEntry class that represents each diary entry with attributes like title, content, and timestamp.
+Implement methods to add, update, delete, and list entries.
+### 🔄 Main Menu:
 
-#### Class Attributes: Shared among all instances. 🌍
-Instance Attributes: Unique to each object. 🔑
-Encapsulation: Control access to object attributes. 🔒
-Inheritance: Reuse code by inheriting properties from another class. 👩‍👦
-Polymorphism: Overriding methods to change behavior. 🎭
-#### 📤 Submission:
+After login, display a diary menu with the following options:
+Add Entry
+Update Entry
+Delete Entry
+List Entries
+Log Out
+### 🛠️ Error Handling:
 
-Complete the notebook by adding the required code cells and explanations. ✍️
-Ensure the code runs without errors and the outputs match the expected results. ✅
+Ensure that the application handles invalid input gracefully, such as incorrect login credentials or non-existing entries for updating/deleting.
+### ✅ Task Checklist:
+ Implement user signup and login functionality 🔑.
+ Create diary entries with a title, content, and timestamp 📅.
+ Update, delete, and list diary entries 📖.
+ Store data persistently in .txt files 💾.
+ Handle invalid inputs and exceptions 🚨.
+### 📤 Submission:
+Complete the notebook with all the required code and explanations.
+Ensure the code runs correctly and diary functionalities work as expected.
+Submit your completed project with clear comments in the code explaining each section.
