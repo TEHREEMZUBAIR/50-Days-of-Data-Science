@@ -1,0 +1,204 @@
+"country","continent","year","population","number_of_languages","year_index"
+"Afghanistan","Asia",2018,37172386,5,1
+"Albania","Europe",2018,2866376,3,1
+"Algeria","Africa",2018,42228429,2,1
+"American Samoa","Oceania",2017,55620,3,1
+"Andorra","Europe",2018,77006,4,1
+"Angola","Africa",2018,30809762,9,1
+"Antigua and Barbuda","North America",2018,96286,2,1
+"Argentina","South America",2018,44494502,3,1
+"Armenia","Asia",2018,2951776,2,1
+"Aruba","North America",2017,105366,4,1
+"Australia","Oceania",2018,24992369,8,1
+"Austria","Europe",2018,8847037,8,1
+"Azerbaijan","Asia",2018,9942334,4,1
+"Bahamas","North America",2017,381761,2,1
+"Bahrain","Asia",2018,1569439,2,1
+"Bangladesh","Asia",2018,161356039,7,1
+"Barbados","North America",2017,286233,2,1
+"Belarus","Europe",2018,9485386,4,1
+"Belgium","Europe",2018,11422068,6,1
+"Belize","North America",2018,383071,4,1
+"Benin","Africa",2018,11485048,7,1
+"Bermuda","North America",2013,65001,1,1
+"Bhutan","Asia",2018,754394,3,1
+"Bolivia","South America",2018,11353142,4,1
+"Bosnia and Herzegovina","Europe",2018,3323929,1,1
+"Botswana","Africa",2018,2254126,5,1
+"Brazil","South America",2018,209469333,5,1
+"Brunei","Asia",2018,428962,4,1
+"Bulgaria","Europe",2018,7024216,4,1
+"Burkina Faso","Africa",2018,19751535,6,1
+"Burundi","Africa",2018,11175378,3,1
+"Cambodia","Asia",2018,16249798,4,1
+"Cameroon","Africa",2018,25216237,8,1
+"Canada","North America",2018,37058856,12,1
+"Cape Verde","Africa",2018,543767,2,1
+"Cayman Islands","North America",2017,63382,1,1
+"Central African Republic","Africa",2018,4666377,6,1
+"Chad","Africa",2018,15477751,8,1
+"Chile","South America",2018,18729160,4,1
+"China","Asia",2018,1392730000,12,1
+"Colombia","South America",2018,49648685,5,1
+"Comoros","Africa",2018,832322,5,1
+"Congo","Africa",2018,5244363,6,1
+"Costa Rica","North America",2018,4999441,4,1
+"Côte d’Ivoire","Africa",2018,25069229,5,1
+"Croatia","Europe",2018,4089400,2,1
+"Cuba","North America",2017,11339259,1,1
+"Cyprus","Asia",2018,1189265,2,1
+"Czech Republic","Europe",2018,10625695,8,1
+"Denmark","Europe",2018,5797446,7,1
+"Djibouti","Africa",2018,958920,3,1
+"Dominica","North America",2018,71625,2,1
+"Dominican Republic","North America",2018,10627165,2,1
+"Ecuador","South America",2018,17084357,2,1
+"Egypt","Africa",2018,98423595,2,1
+"El Salvador","North America",2018,6420744,2,1
+"Equatorial Guinea","Africa",2018,1308974,2,1
+"Eritrea","Africa",2011,3213972,6,1
+"Estonia","Europe",2018,1320884,5,1
+"Ethiopia","Africa",2018,109224559,7,1
+"Faroe Islands","Europe",2016,48173,2,1
+"Federated States of Micronesia","Oceania",2018,112640,6,1
+"Fiji Islands","Oceania",2018,883483,2,1
+"Finland","Europe",2018,5518050,5,1
+"France","Europe",2018,66987244,6,1
+"French Polynesia","Oceania",2000,240686,3,1
+"Gabon","Africa",2018,2119275,4,1
+"Gambia","Africa",2018,2280102,5,1
+"Georgia","Asia",2018,3731000,6,1
+"Germany","Europe",2018,82927922,6,1
+"Ghana","Africa",2018,29767108,6,1
+"Greece","Europe",2018,10727668,2,1
+"Greenland","North America",2016,56186,2,1
+"Grenada","North America",2018,111454,1,1
+"Guam","Oceania",2017,164281,5,1
+"Guatemala","North America",2018,17247807,5,1
+"Guinea","Africa",2018,12414318,7,1
+"Guinea-Bissau","Africa",2018,1874309,6,1
+"Guyana","South America",2018,779004,3,1
+"Haiti","North America",2018,11123176,2,1
+"Honduras","North America",2018,9587522,4,1
+"Hong Kong","Asia",2018,7451000,5,1
+"Hungary","Europe",2018,9768785,6,1
+"Iceland","Europe",2018,353574,2,1
+"India","Asia",2018,1352617328,12,1
+"Indonesia","Asia",2018,267663435,9,1
+"Iran","Asia",2017,80673951,10,1
+"Iraq","Asia",2018,38433600,5,1
+"Ireland","Europe",2018,4853506,2,1
+"Israel","Asia",2018,8883800,3,1
+"Italy","Europe",2018,60431283,8,1
+"Jamaica","North America",2018,2934855,2,1
+"Japan","Asia",2018,126529100,6,1
+"Jordan","Asia",2018,9956011,3,1
+"Kazakstan","Asia",2018,18276499,6,1
+"Kenya","Africa",2018,51393010,10,1
+"Kiribati","Oceania",2018,115847,2,1
+"Kuwait","Asia",2018,4137309,2,1
+"Kyrgyzstan","Asia",2018,6315800,7,1
+"Laos","Asia",2018,7061507,4,1
+"Latvia","Europe",2018,1926542,6,1
+"Lebanon","Asia",2018,6848925,3,1
+"Lesotho","Africa",2018,2108132,3,1
+"Liberia","Africa",2018,4818977,8,1
+"Libyan Arab Jamahiriya","Africa",2018,6678567,2,1
+"Liechtenstein","Europe",2016,37658,3,1
+"Lithuania","Europe",2018,2789533,5,1
+"Luxembourg","Europe",2018,607728,5,1
+"Macao","Asia",2018,631636,4,1
+"Macedonia","Europe",2018,2082958,5,1
+"Madagascar","Africa",2018,26262368,2,1
+"Malawi","Africa",2018,18143315,4,1
+"Malaysia","Asia",2018,31528585,6,1
+"Maldives","Asia",2018,515696,2,1
+"Mali","Africa",2018,19077690,6,1
+"Malta","Europe",2018,483530,2,1
+"Marshall Islands","Oceania",2018,58413,2,1
+"Mauritania","Africa",2018,4403319,6,1
+"Mauritius","Africa",2018,1265303,6,1
+"Mexico","North America",2018,126190788,6,1
+"Moldova","Europe",2018,3545883,5,1
+"Monaco","Europe",2017,38392,4,1
+"Mongolia","Asia",2018,3170208,6,1
+"Morocco","Africa",2018,36029138,2,1
+"Mozambique","Africa",2018,29495962,10,1
+"Myanmar","Asia",2018,53708395,8,1
+"Namibia","Africa",2018,2448255,8,1
+"Nauru","Oceania",2018,12704,5,1
+"Nepal","Asia",2018,28087871,7,1
+"Netherlands","Europe",2018,17231017,4,1
+"New Caledonia","Oceania",2000,213230,3,1
+"New Zealand","Oceania",2018,4885500,2,1
+"Nicaragua","North America",2018,6465513,4,1
+"Niger","Africa",2018,22442948,5,1
+"Nigeria","Africa",2018,195874740,10,1
+"Northern Mariana Islands","Oceania",2017,56562,6,1
+"Norway","Europe",2018,5314336,5,1
+"Oman","Asia",2018,4829483,2,1
+"Pakistan","Asia",2018,212215030,8,1
+"Palau","Oceania",2018,17907,4,1
+"Palestine","Asia",2018,4569087,2,1
+"Panama","North America",2018,4176873,6,1
+"Papua New Guinea","Oceania",2018,8606316,2,1
+"Paraguay","South America",2018,6956071,4,1
+"Peru","South America",2018,31989256,3,1
+"Philippines","Asia",2018,106651922,10,1
+"Poland","Europe",2018,37978548,4,1
+"Portugal","Europe",2018,10281762,1,1
+"Puerto Rico","North America",2018,3195153,2,1
+"Qatar","Asia",2018,2781677,2,1
+"Russian Federation","Europe",2018,144478050,12,1
+"Rwanda","Africa",2018,12301939,2,1
+"Saint Kitts and Nevis","North America",2018,52441,2,1
+"Saint Lucia","North America",2018,181889,2,1
+"Saint Vincent and the Grenadines","North America",2018,110210,2,1
+"Samoa","Oceania",2018,196130,3,1
+"San Marino","Europe",2017,33671,1,1
+"Sao Tome and Principe","Africa",2018,211028,2,1
+"Saudi Arabia","Asia",2018,33699947,1,1
+"Senegal","Africa",2018,15854360,6,1
+"Seychelles","Africa",2018,96762,3,1
+"Sierra Leone","Africa",2018,7650154,8,1
+"Singapore","Asia",2018,5638676,3,1
+"Slovakia","Europe",2018,5447011,5,1
+"Slovenia","Europe",2018,2067372,3,1
+"Solomon Islands","Oceania",2018,652858,3,1
+"Somalia","Africa",2018,15008154,2,1
+"South Africa","Africa",2018,57779622,11,1
+"South Korea","Asia",2018,51635256,2,1
+"Spain","Europe",2018,46723749,4,1
+"Sri Lanka","Asia",2018,21670000,3,1
+"Sudan","Africa",2018,41801533,10,1
+"Suriname","South America",2018,575991,2,1
+"Swaziland","Africa",2018,1136191,2,1
+"Sweden","Europe",2018,10183175,6,1
+"Switzerland","Europe",2018,8516543,4,1
+"Syria","Asia",2007,19878254,2,1
+"Tajikistan","Asia",2018,9100837,3,1
+"Tanzania","Africa",2018,56318348,11,1
+"Thailand","Asia",2018,69428524,6,1
+"The Democratic Republic of the Congo","Africa",2018,84068091,10,1
+"Togo","Africa",2018,7889094,8,1
+"Tonga","Oceania",2018,103197,2,1
+"Trinidad and Tobago","North America",2018,1389858,3,1
+"Tunisia","Africa",2018,11565204,3,1
+"Turkey","Asia",2018,82319724,3,1
+"Turkmenistan","Asia",2018,5850908,4,1
+"Turks and Caicos Islands","North America",2018,37665,1,1
+"Tuvalu","Oceania",2018,11508,3,1
+"Uganda","Africa",2018,42723139,10,1
+"Ukraine","Europe",2018,44622516,7,1
+"United Arab Emirates","Asia",2018,9630959,2,1
+"United Kingdom","Europe",2018,66488991,3,1
+"United States","North America",2018,327167434,12,1
+"Uruguay","South America",2018,3449299,1,1
+"Uzbekistan","Asia",2018,32955400,6,1
+"Vanuatu","Oceania",2018,292680,3,1
+"Venezuela","South America",2014,30045134,3,1
+"Vietnam","Asia",2018,95540395,9,1
+"""Virgin Islands, U.S.""","North America",2017,107268,3,1
+"Yemen","Asia",2018,28498687,2,1
+"Zambia","Africa",2018,17351822,6,1
+"Zimbabwe","Africa",2018,14439018,4,1
