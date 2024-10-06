@@ -1,2 +1,0 @@
-this is my reD ME FILE
-THIS IS THE CONTENT
